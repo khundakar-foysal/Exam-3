@@ -1,0 +1,207 @@
+@media (max-width:1400px){
+    .about-section {
+        margin-bottom: 5.0rem;
+    }
+}
+@media (max-width:1199px){
+    .single-services h3 {
+        font-size: 1.5rem;
+    }
+       
+}
+@media (max-width:991px){
+    .top-info span i {
+        font-size: 1.0rem;
+    }
+    .top-info span span {
+        font-size: 1rem;
+    }
+    .open-time span span {
+        font-size: 1rem;
+    }
+    .open-time span i {
+        font-size: 1rem;
+    }
+    .menu li ul {
+        top: 1.4rem;
+        left: 13.2rem;
+      
+    }
+    .banner-txt {
+        width: 66rem;
+    }
+    .banner-txt h1 {
+        font-size: 4rem;
+    }
+    .menu {
+        width: 20.0rem;
+        margin-left: 0 !important;
+    }
+    .menu li a {
+        line-height: 4.3rem;
+    }
+    .header-section{
+        padding-top: 3.0rem;
+    }
+    .search-bar{
+        display: none;
+    }
+    .banner-img {
+        padding: 20rem 0;
+    }
+    .labodratory-section {
+        bottom: -46.3rem;
+    }
+    .common-text-1 {
+        margin-top: 15rem;
+    }
+    .about-section {
+        margin-top: 53rem;
+    }
+    .about-img img:nth-child(2) {
+        right: 0;
+        bottom: -11.5rem;
+        left: 0;
+        margin: auto;
+    }
+    .common-text-1 {
+        margin-left: 0;
+    }
+    .single-services h3 {
+        font-size: 2rem;
+    }
+    /* .count-2{
+        overflow: hidden;
+        margin: 5.0rem auto;
+    }
+    .count-img .c-img-1 {
+        bottom: 0;
+    }
+    .count-img .c-img-2 {
+        bottom: 0;
+    } */
+    .news-content h2 {
+        font-size: 1.5rem;
+    }
+    .news-content h6 {
+        font-size: 1.0rem;
+    }
+    .flax-item {
+        margin-bottom: 7.0rem;
+    }
+    .flax-section {
+        padding-bottom: 0rem;
+    }
+    .footer-main-div {
+        margin-bottom: 3.0rem;
+    }
+    .header-section {
+        padding-top: 0;
+    }
+   
+} 
+@media (max-width:767px){
+    .top-header-section{
+        display: none;
+    }
+    .header-section{
+        position: inherit;
+    }
+    .banner-txt {
+        width: 50rem;
+    }
+    .banner-txt h1 {
+        font-size: 3rem;
+    }
+    .banner-txt p {
+        font-size: 1.0rem;
+    }
+    .banner-img {
+        padding: 14rem 0;
+    }
+    .labodratory-section {
+        bottom: -99.3rem;
+    }
+    .lab-1 {
+        margin-top: 0 !important;
+    }
+    .labarotory-item {
+        margin-bottom: 3.0rem;
+    }
+    .about-section {
+        margin-top: 100rem;
+    }
+    .common-text-1 h1 {
+        font-size: 3rem;
+    }
+    .info-heading h3 {
+        font-size: 2.5rem;
+    }
+    .contact-content h1 {
+        font-size: 3rem;
+    }
+ 
+}
+@media (max-width:575px){
+    .menu li ul li span {
+        margin-left: 2rem;
+    }
+    .menu li:hover > ul {
+        width: 12.9rem;
+    }
+    .menu li ul li ul {
+        position: absolute;
+        left: -13rem;
+        top: 0;
+    }
+    .banner-txt {
+        width: 32rem;
+    }
+    .banner-txt h1 {
+        font-size: 2rem;
+    }
+    .prev-1 {
+        font-size: 2.0rem;
+        width: 3rem;
+        height: 3rem;
+        line-height: 3.5rem;
+        transform: translateX(0.9rem);
+
+    }
+    .next-1 {
+        font-size: 2.0rem;
+        width: 3rem;
+        height: 3rem;
+        line-height: 3.5rem;
+        transform: translateX(-0.9rem);
+
+    }
+    .common-text-1 h1 {
+        font-size: 2.5rem;
+    }
+    .choose-content h1 {
+        font-size: 2.5rem;
+    }
+    .news-img {
+        position: relative;
+        text-align: center;
+    }
+}
+
+@media (max-width:418px){
+    .labodratory-section {
+        bottom: -108.3rem;
+    }
+    .about-section {
+        margin-top: 112rem;
+    }
+    .common-text-1 h1 {
+        font-size: 2.0rem;
+    }
+    .about-img img:nth-child(2) {
+        width: 23rem;
+    }
+    .section-title h2 {
+        font-size: 2.8rem;
+    }
+}
